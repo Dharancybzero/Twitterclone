@@ -1,0 +1,90 @@
+.half{
+
+background: url(i1.jpg.jpeg);
+background-position:l;
+background-size: cover;
+
+
+width: 50%;
+height: 100%;
+
+
+
+
+}
+
+.fr{
+    position: relative;
+    bottom: 650px;
+    left: 900px;
+       
+
+    
+
+}
+
+
+
+.imagee{
+    position: relative;
+    bottom: 750px;
+    left: 800px;
+
+}
+
+.para {
+    position: relative;
+    bottom: 500px;
+    left: 1000px;
+}
+
+
+.fri{
+    position: relative;
+    bottom: 350px;
+    left: 1000px;
+}
+
+#tw {
+    border-radius: 15px;
+    background-color: skyblue;
+    height: 35px;
+    width: 50px;
+
+
+
+}
+
+
+
+p1 {
+    
+    position: relative;
+    top: 240px;
+    left: 250px;
+    
+    
+    font-weight: bold;
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    
+
+  }
+
+
+
+  img{
+    position: relative;
+    top: 245px;
+    
+    
+
+    left: 195px;
+}
+
+.bird {
+    border-radius: 15px;
+    background-color: skyblue;
+    height: 40px;
+    width: 400px;
+}
